@@ -53,7 +53,7 @@ git clone https://github.com/raihan40/Ben10_game.git
 
 
 ## Features
-Certainly! Here are some features of your IoT-based temperature control system using Raspberry Pi:
+Here are some features of your IoT-based temperature control system using Raspberry Pi:
 
 1. **Real-time Temperature Monitoring:** Constantly monitors the temperature using sensors in real-time.
 
